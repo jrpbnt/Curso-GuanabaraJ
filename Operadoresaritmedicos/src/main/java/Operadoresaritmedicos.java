@@ -11,8 +11,7 @@ public class Operadoresaritmedicos {
     public static void main(String[] args) {
         System.out.println("ACERTO MIZERAVI");
        
-        // Metodos de arredondamento ceil florr round
-        
+        // Metodos de arredondamento ceil florr round 
        /*   float v = 8.9f;
        int ar =  (int) Math.floor(v );
         System.out.println(ar)*/
